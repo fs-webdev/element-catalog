@@ -1,5 +1,5 @@
 {
-  "firebase": "sizzling-inferno-6187",
+  "firebase": "fs-catalog",
   "public": "dist",
   "ignore": [
     "firebase.json",
