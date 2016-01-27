@@ -16,9 +16,9 @@
   ],
   "private": true,
   "dependencies": {
-    "oak-elements": "FamilySearchElements/oak-elements",
-    "birch-elements": "FamilySearchElements/birch-elements",
-    "elm-elements": "FamilySearchElements/elm-elements",
+    "oak-elements": "FamilySearchElements/oak-elements#^1.0.0",
+    "birch-elements": "FamilySearchElements/birch-elements#^1.0.0",
+    "elm-elements": "FamilySearchElements/elm-elements#^1.0.0",
     "iron-elements": "PolymerElements/iron-elements#^1.0.0",
     "paper-elements": "PolymerElements/paper-elements#^1.0.0",
     "gold-elements": "PolymerElements/gold-elements#^1.0.0",
