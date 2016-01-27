@@ -3,7 +3,7 @@
     {
       "name":"oak-elements",
       "title":"Oak Elements",
-      "color":"#87b940",
+      "color":"#9c947a",
       "symbol":"Oa",
       "tagline": "Oak Elements"
     },
@@ -13,6 +13,13 @@
       "color":"#ffffff",
       "symbol":"Bi",
       "tagline": "Birch Elements"
+    },
+    {
+      "name":"elm-elements",
+      "title":"Elm Elements",
+      "color":"#87b940",
+      "symbol":"el",
+      "tagline": "Elm Elements"
     }
   ]
 }
