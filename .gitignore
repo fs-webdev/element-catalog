@@ -5,3 +5,4 @@ dist
 npm-debug.log
 .divshot-cache
 .idea/
+firebase-debug.log
