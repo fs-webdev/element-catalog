@@ -1,7 +1,7 @@
 {
   "name": "polymer-element-catalog",
   "version": "1.0.1",
-  "description": "A catalog of Google's Web Components",
+  "description": "A catalog of FamilySearch's Web Components",
   "main": "index.js",
   "scripts": {
     "serve": "gulp serve",
@@ -9,9 +9,8 @@
     "build": "gulp",
     "clean": "gulp clean",
     "deps": "npm install && bower install",
-    "deploy": "firebase deploy",
-    "stage": "firebase deploy -f p-catalog-staging",
-    "deploy-from-scratch":"gulp distclean && bower install && gulp && firebase deploy"
+    "deploy": "./deploy.sh",
+    "deploy-from-scratch":"gulp distclean && bower install && gulp && ./deploy.sh"
   },
   "repository": {
     "type": "git",
