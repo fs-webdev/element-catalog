@@ -6,8 +6,8 @@ pushd $dir>/dev/null
 
 git init
 git add -A .
-git commit -am "seed familysearchelements.github.io"
-git remote add origin https://github.com/FamilySearchElements/familysearchelements.github.io.git
+git commit -am "seed fs-webdev.github.io"
+git remote add origin https://github.com/fs-webdev/fs-webdev.github.io.git
 git push origin +master
 
 popd >/dev/null
